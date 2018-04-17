@@ -31,7 +31,7 @@
 
 ### FODA
 Realizamos un análisis FODA para determinar los factores críticos positivos de la aplicación, así como los factores críticos negativos que se deben eliminar o reducir y la amenaza que representan otras aplicaciones de ahorro en el mercado para BBVA Plan. Con el objetivo de tomar decisiones estratégicas para mejorar las situación actual.
-![FODA](assets/images/FODA-Bancomer.jpg)
+![FODA](assets/images/FODA.png)
 
 ### PESTEL
 Con el análisis de PESTEL definimos el contexto de el producto BBVA Plan. Partiendo de el estudio de factores externos políticos, económicos, sociales, tecnológicos, ambientales y jurídicos que pueden influir en su alcance.
