@@ -1,4 +1,5 @@
 # Metas compartidas BBVA Bancomer
+![BBVA Plan](assets/images/BBVA-plan.png)
 
 * **Track:** UX Specialization
 * **Sprint 06:** UX PROCESS
