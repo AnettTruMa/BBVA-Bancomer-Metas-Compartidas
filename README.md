@@ -35,16 +35,9 @@ Realizamos un análisis FODA para determinar los factores críticos positivos de
 ![FODA](assets/images/FODA.png)
 
 ### PESTEL
-Con el análisis de PESTEL definimos el contexto de el producto BBVA Plan. Partiendo de el estudio de factores externos políticos, económicos, sociales, tecnológicos, ambientales y jurídicos que pueden influir en su alcance.
+Con el análisis de PESTEL definimos el contexto del producto BBVA Plan. Partiendo de el estudio de factores externos políticos, económicos, sociales, tecnológicos, ambientales y jurídicos que pueden influir en su alcance.
 
-### Objetivos SMART
-* Aumentar el número de descargas de la app BBVA Plan en un 35% y la calificación de la misma de 3.6/5 a 4/5 en un plazo de 6 meses a través de la optimización con nuevas funciones y la implementación de metas compartidas.
 
-* Incrementar el porcentaje de ventas de la cartera de productos financieros en un 5%  en un periodo de 6 meses por medio de la implementación de “Smarcasts” que sean afines a los hábitos de ahorro de los usuarios, brindándoles soluciones específicas a sus necesidades.  
-
-* Fomentar la educación financiera de nuestros usuarios, generando así una fidelización a nuestra marca en un plazo de un año, aumentando en un 3% el número de clientes que realizan inversiones, más allá del ahorro con rendimientos.
-
-* Aumentar de 5.3 a 6.5 millones el número de clientes digitales y de 21.7% a 32% el porcentaje de ventas digitales durante 2018 afianzando la confianza del consumidor y asesorando a los usuarios en el momento en que lo necesitan.
 
 
 ### Mapa de empatía
@@ -55,6 +48,12 @@ El mapa de empatía nos permitió conocer quién es el cliente, qué problema ti
 
 ### User persona
 Para definir a nuestro user persona, realizamos una primera encuesta, con la cual pudimos perfilar al usuario de la aplicación.  [Encuesta 1. Perfil de usuario y hábitos de ahorro](https://docs.google.com/forms/d/1JZ4vUEQPfACjVFVtUy3TG4yQjZq19DVZchVp3yDnCuI/edit#responses)
+
+#### Insights
+1. 51.5% prefiere ahorrar en el banco
+2. 68.7% planea alcanzar sus metas de ahorro en un plazo superior a seis meses.
+3. Las principales motivaciones de ahorro son: fondo de emergencia (31.3%), bienes materiales (23.9%) y viajes (17.9%).
+
 
 ![user persona](assets/images/UserF.jpg)
 
@@ -70,4 +69,31 @@ Una vez definido el user persona se realizó un journey map que nos permitió id
 
 #### Segunda encuesta
 
-[Encuesta 2.Validación de metas compartidas.](https://docs.google.com/forms/d/1xQG95FrmXMX3TUF0MLQWHzL8O1LkLA4n0I9GTi24H5I/edit?usp=drive_web)
+[Encuesta 2. Viabilidad de metas compartidas](https://docs.google.com/forms/d/1xQG95FrmXMX3TUF0MLQWHzL8O1LkLA4n0I9GTi24H5I/edit?usp=drive_web)
+
+#### Insights
+
+1. **48.6% usarían metas compartidas** en una app bancaria de ahorro.
+
+2. **57.1%** de usuarios que ahorrarían en pareja o grupo, lo harían para **viajar**.
+
+3. **59.5%** desea tener como beneficio una **tasa de rendimiento.**
+
+4. **86.5%** le gustaría **disponer de su dinero** en caso de emergencia.
+
+### Objetivos SMART
+* **Aumentar el número de descargas de la app BBVA Plan en un 35% y la calificación de la misma de 3.6/5 a 4/5 en un plazo de 6 meses** a través de la optimización con nuevas funciones y la implementación de metas compartidas.
+
+* **Incrementar el porcentaje de ventas de la cartera de productos financieros en un 5%  en un periodo de 6 meses** por medio de la implementación de “Smarcasts” que sean afines a los hábitos de ahorro de los usuarios, brindándoles soluciones específicas a sus necesidades.  
+
+* **Fomentar la educación financiera de nuestros usuarios,** generando así una fidelización a nuestra marca en un plazo de un año, aumentando en un 3% el número de clientes que realizan inversiones, más allá del ahorro con rendimientos.
+
+### Backlog de diseño
+
+### System Desingn
+
+![System desing](assets/images/System_Design_uxCorp.png)
+
+### Creación y rediseño de logos para BBVA plan
+
+### Mapa de interactividad
